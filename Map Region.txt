@@ -1,0 +1,6 @@
+The region that I looked over was "Lagny-Sur-Marne", a place where some of my cousins and uncle live in France.
+The location is in the region minlat="48.8454000", minlon="2.6491000", maxlat="48.9041000", maxlon="2.7838000"
+(link: https://www.openstreetmap.org/export#map=13/48.8745/2.7164). The location is near the Marne river, which 
+flows to the east of Paris. I visited my family a few years back and was happy to do more research on the location 
+again by doing the Open Street Map project on the location. I hope that I can make the data on the location a 
+little more clean and legible by transferring it to a JSON / MongoDB readable file.

@@ -1,0 +1,4 @@
+https://wiki.openstreetmap.org/wiki/Tags: for info on "nodes", "ways", and "relations".
+https://stackoverflow.com/questions/20796714/how-do-i-start-mongo-db-from-windows: for info on how to install MongoDB and the "mongod" command
+https://docs.google.com/document/d/1F0Vs14oNEs2idFJR3C_OPxwS6L0HPliOii-QpbmrMo4/pub: for help on specific MongoDB queries and overall project design
+https://stackoverflow.com/questions/30327508/mongodb-osm-street-maps-unique-users: for help on getting distinct users
